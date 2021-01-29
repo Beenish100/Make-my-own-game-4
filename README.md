@@ -1,1 +1,2 @@
-# Make-my-own-game-4
+# Making-my-own-game
+Now, I am making my own game with my teacher on Whitehat Jr.
